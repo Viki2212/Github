@@ -1,1 +1,2 @@
-Hello Team
+print(15 + 25)
+

@@ -3,3 +3,4 @@ print("Github")
 print("Welcome")
 print("Trainig")
 print("its closed")
+this is new project for github

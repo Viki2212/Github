@@ -4,4 +4,4 @@ print("Welcome")
 print("Trainig")
 print("its closed")
 this is new project for github
-
+push comment

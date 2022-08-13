@@ -1,1 +1,2 @@
 Today learning th github
+day 1 - checkout, add, commit, branch

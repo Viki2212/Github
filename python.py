@@ -1,5 +1,8 @@
 print("This is python file")
-a = 10
 
-for i in range(a):
-  print (i)
+for row in range (6):
+    for col in range (row):
+        print ("*", end=" ")
+    print(" ")
+  
+ 

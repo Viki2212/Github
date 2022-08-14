@@ -4,4 +4,5 @@ print("Welcome")
 print("Trainig")
 print("its closed")
 this is new project for github
-push comment
+Happy Sunday - 14/08/2022
+today learn java

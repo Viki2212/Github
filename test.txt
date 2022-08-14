@@ -7,3 +7,5 @@ for row in range(6)
 	for col in range(row)
 		print ("*", end = " " )
 	print(" ")
+linux token
+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

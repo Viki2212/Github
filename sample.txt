@@ -6,3 +6,5 @@ print("its closed")
 this is new project for github
 Happy Sunday - 14/08/2022
 today learn java
+add linux
+

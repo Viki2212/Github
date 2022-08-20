@@ -1,4 +1,5 @@
 print("This is python file")
+print("this update in 20.08.2022")
 
 for row in range (6):
     for col in range (row):

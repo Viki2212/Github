@@ -1,7 +1,7 @@
 print("This is python file")
 print("this update in 20.08.2022")
 print("this update in 21.08.2022")
-
+print("this update in 24.08.2022")
 for row in range (6):
     for col in range (row):
         print ("*", end=" ")

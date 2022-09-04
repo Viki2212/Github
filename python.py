@@ -4,6 +4,7 @@ print("this update in 21.08.2022")
 print("this update in 24.08.2022")
 print("this update in 25.08.2022")
 print("this update in 26.08.2022")
+print("this is laptop update 03.09.22")
 
 for row in range (6):
     for col in range (row):
